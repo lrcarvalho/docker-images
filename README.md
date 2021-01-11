@@ -1,6 +1,8 @@
-# Taller Images
+# Docker Images
 
 Repository to contain the build process for public docker images built by the Taller team. Each directory has the same name as an image.
+
+This project was based on [Docker-Images project from TallweWebSolutions] (https://github.com/TallerWebSolutions/docker-images)
 
 ## Commands
 
