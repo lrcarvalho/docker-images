@@ -17,7 +17,7 @@ RUN apt-get update -y             \
   iputils-ping                    \
   libfontconfig1                  \
   libjpeg-dev                     \
-  libpng-dev                    \
+  libpng-dev                      \
   libpq-dev                       \
   locales                         \
   mysql-client                    \
@@ -25,6 +25,7 @@ RUN apt-get update -y             \
   netcat                          \
   openconnect                     \
   php7.3-soap                     \
+  php7.3-zip                      \
   php-xdebug                      \
   software-properties-common      \
   rsync                           \
